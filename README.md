@@ -4,48 +4,75 @@ This Power BI dashboard analyzes annotation task performance and quality. It hel
 
 ---
 
-## 📌 Overview
+## 📌 Features
 
-This project visualizes annotation data including task volume, errors, annotator performance, and QA status. It’s designed for annotation teams and quality managers to monitor productivity and QA compliance.
-
----
-
-## 📊 Dashboard Summary
-
-- **KPI Cards**: Total Annotations, Total Errors, Average Accuracy %
-- **Line Chart**: Daily annotation trends
-- **Bar Chart**: Annotator-wise performance
-- **Pie Chart**: QA Status distribution (Pass vs Fail)
-- **Data Table**: Task-level detail with QA Score
+- ✅ Track total annotations and error counts
+- 📉 Monitor average accuracy percentage
+- 🧑‍💻 Compare performance by annotator
+- 🎯 Analyze QA pass/fail breakdown
+- 📆 View trends over time
 
 ---
 
-## 🛠 Tools & Tech
-- Power BI Desktop
+## 📊 Dashboard Preview
+
+![Dashboard Screenshot](overview.png)
+
+> *(You can replace this with your actual screenshot named `overview.png`)*
+
+---
+
+## 🔍 Overview
+
+This project visualizes annotation data including:
+- Total annotations per day
+- Errors per annotator
+- Accuracy % per task
+- QA Pass vs Fail stats
+
+It's designed to help QA managers monitor quality in data labeling teams.
+
+---
+
+## 🗂️ Files Included
+
+| File Name | Description |
+|-----------|-------------|
+| `Annotation_Quality_Dashboard.pbit` | Power BI file (interactive dashboard) |
+| `Annotation_Quality_Dashboard.pdf` | Exported static report |
+| `README.md` | Documentation and guide |
+
+---
+
+## 🚀 How to Use
+
+1. Open `Annotation_Quality_Dashboard.pbit` in Microsoft Power BI
+2. Load your annotation dataset (CSV or Excel)
+3. Use filters and slicers to explore performance insights
+4. Export visuals to PDF or share dashboard with your team
+
+---
+
+## ⚙️ Tools Used
+
+- Microsoft Power BI
 - Power Query Editor
-- Excel (as source data)
+- Conditional Columns
+- DAX (Data Analysis Expressions)
 
 ---
 
-## 📁 Files in This Repo
+## 🧑‍💼 Author
 
-| File | Description |
-|------|-------------|
-| `.pbix` | Editable Power BI project |
-| `.pdf` | Exported dashboard slides |
-| `README.md` | Project documentation |
+**Appu Anand**
 
+- 🌐 GitHub: [Appu-Anand](https://github.com/Appu-Anand)
+- 🔗 LinkedIn: www.linkedin.com/in/appuanand
+- 📧 appu12anand@gmail.com
 ---
 
-## 🧩 Use Cases
+## 📎 License
 
-- Quality control for annotation projects
-- Team performance monitoring
-- Portfolio showcase for data analytics
+This project is for educational and portfolio purposes only.
 
----
 
-## 🔗 Author
-
-Feel free to reach out or connect on [LinkedIn] www.linkedin.com/in/appuanand 
-📧 appu12anand@gmail.com
