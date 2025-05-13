@@ -18,7 +18,6 @@ This Power BI dashboard analyzes annotation task performance and quality. It hel
 
 ![Dashboard Screenshot](overview.png)
 
-> *(You can replace this with your actual screenshot named `overview.png`)*
 
 ---
 
